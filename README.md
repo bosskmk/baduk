@@ -1,2 +1,3 @@
 # baduk
-VC++ 바둑. 죽은돌 들어내기, 패 등 기본적인 룰만 되어있습니다. 계가나 형세판단 등은 없습니다.
+Around 2000, it was first learned and created Go program.
+VC++ Go. There are only basic rules such as lifting dead stones and playing cards. There are no calculations or judgments about the situation.
